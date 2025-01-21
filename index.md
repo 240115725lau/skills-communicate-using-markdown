@@ -4,3 +4,6 @@
 ###### This is an `<h6>` header, which is the smallest
 
 wfqwqwfqtest
+
+picture 
+![Image of test](https://octodex.github.com/images/yaktocat.png)
